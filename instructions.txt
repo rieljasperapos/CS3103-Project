@@ -6,3 +6,4 @@ here are the
 
 format for the temporary files is "[cryptographic technique]-SURNAME".
 so for ex. atbash-AYA-AY
+just place it here in the root
