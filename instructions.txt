@@ -1,0 +1,8 @@
+hi, so we will be working on the encryption project. as Irie mentioned b4, to increase the complexity of the project, we will our program should have 3 different types of simple cryptographic techniques.
+
+so each one of us will work on separate files lng sa then we'll consolidate them into a menu once everything is finished so that we wont interrupt with each others work.
+
+here are the
+
+format for the temporary files is "[cryptographic technique]-SURNAME".
+so for ex. atbash-AYA-AY
